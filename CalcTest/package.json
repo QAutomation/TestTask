@@ -1,0 +1,21 @@
+{
+  "name": "calctest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wdio.conf.js",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "wdio-dot-reporter": "^0.0.9"
+  },
+  "devDependencies": {
+    "wdio-appium-service": "^0.2.3",
+    "wdio-jasmine-framework": "^0.3.4",
+    "webdriverio": "^4.12.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
